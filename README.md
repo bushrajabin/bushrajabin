@@ -1,6 +1,4 @@
-# About Me:
-
- <h1>Hello || Bonjour 👋.....</h1>
+ <h2>Hello || Bonjour 👋.....</h2>
  I am Bushra jabin , 2nd year Student in Diploma in Cse Currently, I am exploring the field of front-end development, particularly focusing on building single-page applications using the powerful JavaScript library, React.js.
 <h3 align="center">A passionate Web-developer from India</h3>
 <img align="centre" alt="coding" width="400" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">

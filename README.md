@@ -4,7 +4,6 @@
 - 🌱 I’m currently learning **React js**
 - 👯 I’m looking to collaborate on **frintend  Dev Projects**
 - 💬 Ask me about **Technology and Personal Development**
-- 📫 How to reach me: **lukugeraud97@gmail.com**
 - 😄 Pronouns: she/Her
 
 ## Subscribe to my Channel [![DevWithGeraud](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](www.youtube.com/@CloudChaserss).

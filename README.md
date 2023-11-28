@@ -1,8 +1,8 @@
 ### Hi there 👋  [![]([https://visitcount.itsvg.in/api?id=GeraudLuku&icon=4&color=0)](https://visitcount.itsvg.in](https://github.com/bushrajabin))
 
-- 🔭 I’m currently working on **kneert**
+- 🔭 I’m currently working on **kneMart**
 - 🌱 I’m currently learning **React js**
-- 👯 I’m looking to collaborate on **frintend  Dev Projects**
+- 👯 I’m looking to collaborate on **frontend  Dev Projects**
 - 💬 Ask me about **Technology and Personal Development**
 - 😄 Pronouns: she/Her
 

@@ -16,10 +16,6 @@
 
 <p align="left"> <a href="https://twitter.com/bushra_jabin" target="blank"><img src="https://img.shields.io/twitter/follow/bushra_jabin?logo=twitter&style=for-the-badge" alt="bushra_jabin" /></a> </p>
 
-- 🔭 I’m currently working on [The||photograph](https://bushrajabin.github.io/photography-P1/)
-
-- 🌱 I’m currently learning **HTML,CSS,JAVASCRIPT,C,REACTJS**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/bushra_jabin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bushra_jabin" height="30" width="40" /></a>

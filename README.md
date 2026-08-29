@@ -1,31 +1,186 @@
-<h1 align="center">Hi 👋, I'm Bushra jabin</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">Hi 👋, I'm Bushra Jabin</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bushrajabin&label=Profile%20views&color=0e75b6&style=flat" alt="bushrajabin" /> </p>
+<h3 align="center">
+Frontend Developer • React.js Enthusiast • B.Tech CSE Student
+</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bushrajabin" alt="bushrajabin" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/bushra_jabin" target="blank"><img src="https://img.shields.io/twitter/follow/bushra_jabin?logo=twitter&style=for-the-badge" alt="bushra_jabin" /></a> </p>
-
-- 🔭 I’m currently working on [manuuconnect](https://www.manuuconnect.in/)
-
-- 💬 Ask me about **reactjs**
-
-- 📫 How to reach me **bushrabintjabin@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/bushra_jabin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bushra_jabin" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/bushra-jabin-72746424a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/bushra-jabin-72746424a/" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/@cloudchaserss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@cloudchaserss" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/shit9jbc0z/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/shit9jbc0z/" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://github.com/bushrajabin">
+    <img src="https://komarev.com/ghpvc/?username=bushrajabin&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://backbonejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/backbonejs/backbonejs-original-wordmark.svg" alt="backbonejs" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://github.com/bushrajabin">
+    <img src="https://img.shields.io/github/followers/bushrajabin?label=Followers&style=flat&logo=github" alt="GitHub Followers" />
+  </a>
+  <a href="https://github.com/bushrajabin?tab=repositories">
+    <img src="https://img.shields.io/github/stars/bushrajabin?label=Stars&style=flat&logo=github" alt="GitHub Stars" />
+  </a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bushrajabin&show_icons=true&locale=en&layout=compact" alt="bushrajabin" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bushrajabin&show_icons=true&locale=en" alt="bushrajabin" /></p>
+## 👩‍💻 About Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bushrajabin&" alt="bushrajabin" /></p>
+I'm **Bushra Jabin**, a passionate **Frontend Developer** and B.Tech Computer Science student who enjoys building modern, responsive, and user-friendly web applications.
+
+* 🔭 Currently working on **[MANUU Connect](https://www.manuuconnect.in/)**
+* ⚛️ Mainly working with **React.js**
+* 🌱 Currently improving my **DSA & problem-solving skills**
+* 💻 Interested in **Frontend Development, Full-Stack Development & Open Source**
+* 🚀 I enjoy turning ideas into real-world projects
+* 📚 Always learning and experimenting with new technologies
+* 💬 Ask me about **React.js, JavaScript, Frontend Development**
+* 📫 Reach me at **[bushrabintjabin@gmail.com](mailto:bushrabintjabin@gmail.com)**
+
+---
+
+## 🚀 Tech Stack
+
+### 💻 Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,javascript,html,css" />
+</p>
+
+### ⚛️ Frontend Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,vite" />
+</p>
+
+### 📱 Mobile Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react" />
+  <img src="https://skillicons.dev/icons?i=expo" />
+</p>
+
+### 🔥 Backend & Database
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,firebase,mongodb,mysql" />
+</p>
+
+### 🛠️ Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
+</p>
+
+---
+
+## 🌟 Featured Projects
+
+### 🔗 MANUU Connect
+
+A platform designed to connect students and provide useful academic, career, and community-related resources.
+
+**Tech:** React.js
+
+🔗 [Visit Website](https://www.manuuconnect.in/)
+
+---
+
+### 📱 SnapMenu
+
+A mobile application built with React Native and Expo, focusing on a smooth and simple user experience.
+
+**Tech:** React Native • Expo • Firebase
+
+---
+
+### 🖼️ Photo World Studio
+
+A responsive photography website created to showcase photography services, galleries, images, and videos.
+
+**Tech:** HTML • CSS • JavaScript
+
+🔗 [View Repository](https://github.com/bushrajabin/photo-world-studio)
+
+---
+
+## 🧠 DSA Journey
+
+Currently strengthening my **Data Structures & Algorithms** skills using C++.
+
+### 📌 Completed / Learning
+
+* Arrays
+* Strings
+* Two Pointers
+* Sliding Window
+* Searching & Sorting
+* Linked Lists
+* Stack & Queue
+* Hashing
+* Recursion
+* Trees
+* Graphs
+* Dynamic Programming
+
+> Consistency over perfection. 🚀
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bushrajabin&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bushrajabin&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=bushrajabin&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=bushrajabin&theme=tokyonight&no-frame=true&no-bg=true&margin-w=5" />
+</p>
+
+---
+
+## 🤝 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/bushrajabin">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/bushra-jabin-72746424a/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/bushra_jabin">
+    <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
+  <a href="https://www.youtube.com/@cloudchaserss">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/u/shit9jbc0z/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+</p>
+
+---
+
+## 🌐 Portfolio
+
+<p align="center">
+  <a href="https://bushrajabin.netlify.app/">
+    <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<h3 align="center">
+✨ Building. Learning. Improving. ✨
+</h3>
+
+<p align="center">
+  Thanks for visiting my profile! 💙
+</p>
